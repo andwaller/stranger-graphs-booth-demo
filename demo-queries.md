@@ -3,4 +3,5 @@
 ```cypher
 MATCH (n)-[r]->(m)
 RETURN n, r, m;
-### The critical line is:
+```
+What to notice: This returns everything you loaded — no joins, no tables.
