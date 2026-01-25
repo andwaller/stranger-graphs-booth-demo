@@ -1,3 +1,6 @@
+---
+
+```md
 ## 1. Show the Entire Graph ⭐ LIVE
 
 ```cypher
@@ -53,5 +56,3 @@ MATCH (e:Character {name:'Eleven'})
       -[:FRIENDS_WITH]->(rec)
 WHERE NOT (e)-[:FRIENDS_WITH]->(rec)
 RETURN DISTINCT rec.name AS recommended_friend;
-What to notice: This is how recommendations begin — relationships first.
-
