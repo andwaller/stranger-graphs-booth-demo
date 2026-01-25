@@ -1,9 +1,9 @@
 # Stranger Graph Thinking Challenge — Demo Queries
 
-Use this page to **run Cypher queries live** during the Stranger Graph Thinking Challenge.
+Use this page to run Cypher queries **live** during the Stranger Graph Thinking Challenge.
 
-👉 **How this works**
-- The facilitator will call out a query number
+**How it works**
+- The facilitator calls out a query number
 - Copy that query from this page
 - Paste it into **Neo4j Browser**
 - Run it together as a group
