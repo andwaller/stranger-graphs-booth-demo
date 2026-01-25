@@ -1,10 +1,14 @@
-## 1. Show the Entire Graph ⭐ LIVE
+## 10 Query Challenge Live
 
-> **What to notice:** This returns everything you loaded — no tables, no joins.
+## 1. Show the Entire Graph ⭐ LIVE
 
 ```cypher
 MATCH (n)-[r]->(m)
 RETURN n, r, m;
+
+What to notice: This returns everything you loaded — no tables, no joins.
+
+
 2. List All Characters and Their Groups
 What to notice: Nodes can have properties that describe them.
 
