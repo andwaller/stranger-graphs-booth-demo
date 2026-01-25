@@ -5,6 +5,16 @@
 MATCH (n)-[r]->(m)
 RETURN n, r, m;
 
+```md
+---
+
+## 2. List All Characters and Their Groups
+
+```cypher
+MATCH (c:Character)
+RETURN c.name AS character, c.group AS group
+ORDER BY group;
+
 ---
 
 ## 2. List All Characters and Their Groups
