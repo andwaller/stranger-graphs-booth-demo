@@ -1,3 +1,5 @@
+![Stranger Graph Challenge](./assets/banner.png)
+
 # Stranger Graph Thinking Challenge
 
 Welcome to the **Stranger Graphs Booth Demo**.
