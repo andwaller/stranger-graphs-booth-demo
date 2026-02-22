@@ -1,7 +1,8 @@
 <p align="center">
   <img src="assets/Stranger-Graph.png" width="500">
 </p>
-# Stranger Graph Thinking Challenge
+
+## Stranger Graph Thinking Challenge
 
 Welcome to the **Stranger Graphs Booth Demo**.
 
