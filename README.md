@@ -1,11 +1,5 @@
-<p align="center">
+<p align="center" style="margin-bottom: -20px;">
   <img src="assets/stranger-graphs-title.png" width="500">
-</p>
-
-<h2 align="center">Stranger Graph Thinking Challenge</h2>
-
-<p align="center">
-Explore graph relationships in Hawkins using Neo4j.
 </p>
 
 # Stranger Graph Thinking Challenge
