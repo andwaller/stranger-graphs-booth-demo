@@ -10,6 +10,7 @@ In this 10–15 minute challenge, you will:
 - Create a free Neo4j Aura database (no credit card)
 - Load a Stranger Things–inspired graph dataset
 - Run real Cypher queries to explore relationships and paths
+- Possess a really cool Stranger Graph T-Shirt
 
 You’ll leave with a **live graph database you own** and a practical introduction to graph thinking.
 
