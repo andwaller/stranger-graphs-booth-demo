@@ -1,4 +1,4 @@
-<p align="center" style="margin-bottom: -20px;">
+<p align="center" style="margin-bottom: -50px;">
   <img src="assets/stranger-graphs-title.png" width="450">
 </p>
 
