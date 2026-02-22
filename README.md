@@ -1,4 +1,6 @@
-![Stranger Graph Challenge](assets/stranger-graphs-title.png)
+<p align="center">
+  <img src="assets/stranger-graphs-title.png" width="600">
+</p>
 
 # Stranger Graph Thinking Challenge
 
