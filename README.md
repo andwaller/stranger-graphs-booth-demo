@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Stranger Graph.png" width="500">
+  <img src="assets/Stranger-Graph.png" width="500">
 </p>
 # Stranger Graph Thinking Challenge
 
