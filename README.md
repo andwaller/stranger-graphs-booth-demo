@@ -1,4 +1,4 @@
-![Stranger Graph Challenge](./assets/banner.png)
+![Stranger Graph Challenge](assets/stranger-graphs-title.png)
 
 # Stranger Graph Thinking Challenge
 
