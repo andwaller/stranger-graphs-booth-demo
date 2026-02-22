@@ -8,7 +8,7 @@ Welcome to the **Stranger Graphs Booth Demo**.
 
 In this 10–15 minute challenge, you will:
 - Create a free Neo4j Aura database (no credit card)
-- Load a Stranger Things–inspired graph dataset
+- Load a sample Stranger Things inspired graph dataset
 - Run real Cypher queries to explore relationships and paths
 - Possess a really cool Stranger Graph T-Shirt
 
