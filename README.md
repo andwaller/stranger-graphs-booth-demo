@@ -1,6 +1,4 @@
-<p align="center" style="margin-bottom: -5px;">
-  <img src="assets/stranger-graphs-title.png" width="450">
-</p>
+<img src="assets/Stranger-Graph.png" width="450">
 
 # Stranger Graph Thinking Challenge
 
