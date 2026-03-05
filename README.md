@@ -18,7 +18,9 @@ You’ll leave with a **live graph database you own** and a practical introducti
 
 ## Step 1: Create a Free Neo4j Aura Database
 
-👉 [https://neo4j.com/cloud/aura/](https://neo4j.com/developer/?utm_source=devrel-ed-tof&utm_medium=devnexus2026)
+Start by creating your free Neo4j AuraDB instance.
+
+👉 [Create a Free Neo4j Aura Database](https://neo4j.com/developer/?utm_source=devrel-ed-tof&utm_medium=devnexus2026)
 
 - Choose **Aura Free**
 - No credit card required
